@@ -79,3 +79,9 @@ namespace WinFormsApp2
     }
 }
 
+////du ma hacker 
+///
+void haha()
+{
+    Console.WriteLine(":))))))))))))))");
+}
